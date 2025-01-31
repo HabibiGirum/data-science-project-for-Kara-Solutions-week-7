@@ -1,0 +1,17 @@
+
+name: week-3 CI test
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Test message
+        run: echo "Hello 10 Academy Teams!"
