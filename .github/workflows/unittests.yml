@@ -1,5 +1,5 @@
 
-name: week-3 CI test
+name: week-7 CI test
 
 on:
   push:
