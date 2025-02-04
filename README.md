@@ -6,6 +6,10 @@
 Your job is to build a product that does the following 
 1. Develop data scraping and collection pipeline.
 2. Develop data cleaning and transformation pipeline.
+3. Object detection using YOLO.
+4. Data warehouse design and implementation
+5. Data integration and enrichment
+
 
 ## Overview
 
